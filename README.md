@@ -4,11 +4,11 @@ Hi 👋 My name is Ray De Jesus
   <tr><th>Software Engineer</th>
   <th><a href="https://www.linkedin.com/in/rayraydejesus" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></th></tr>
 </table>
------------------
+<!--  -----------------  -->
 
 <!--DESCRIPTION HERE -->
 
-* 🌍  I'm based in Tucson | Arizona
+* 🌍  Based in Tucson | Arizona
 <!--* 🖥️  See my portfolio at [clickthisbutton.com](http://raydejesus.dev)
 * ✉️  You can contact me at [ray@sideapp.co](mailto:ray@sideapp.co)
 * 🚀  I'm currently working on [Ashtray](http://google.com)
