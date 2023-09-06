@@ -8,8 +8,8 @@ Hi 👋 My name is Ray De Jesus
 
 <!--DESCRIPTION HERE -->
 
-* 🌍  Based in Tucson | Arizona
-<!--* 🖥️  See my portfolio at [clickthisbutton.com](http://raydejesus.dev)
+<!-- * 🌍  Based in Tucson | Arizona
+* 🖥️  See my portfolio at [clickthisbutton.com](http://raydejesus.dev)
 * ✉️  You can contact me at [ray@sideapp.co](mailto:ray@sideapp.co)
 * 🚀  I'm currently working on [Ashtray](http://google.com)
 * 🧠  I'm learning backend development
