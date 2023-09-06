@@ -1,10 +1,10 @@
 👋 Hi my name is Ray De Jesus
 ====================================================================================================================================
 <table><tr>
-  <td><b>Software Engineer</b></td>
-  <td><h5>Games</h5></td>
-  <td><h5 align="center">Mobile</h5></td>
-  <td><h5>Frontend</h5></td>
+  <td><strong>Software Engineer</strong></td>
+  <td>Games</td>
+  <td>Mobile</td>
+  <td>Frontend</td>
   <td><a href="https://www.linkedin.com/in/rayraydejesus" target="_blank" rel="noreferrer"><img align= "center" src="https://www.svgrepo.com/show/448234/linkedin.svg" width="34" height="34" /> </a></td>
   <!--<th><a href="https://www.linkedin.com/in/rayraydejesus" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></th></tr>-->
 </tr></table>
