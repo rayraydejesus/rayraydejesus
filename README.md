@@ -28,6 +28,7 @@ Software Engineer
 
 <!--### Badges-->
 
-<b>My GitHub Stats</b>
+<!--<b>My GitHub Stats</b>-->
+### My GitHub Stats
 
 <a href="http://www.github.com/rayraydejesus"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rayraydejesus&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
