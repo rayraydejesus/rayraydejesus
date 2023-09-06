@@ -1,7 +1,7 @@
 👋 Hi my name is Ray De Jesus
 ====================================================================================================================================
 <table><tr>
-  <td><strong>Software Engineer</strong></td>
+  <td><h5>Software Engineer</h5></td>
   <td>Games</td>
   <td>Mobile</td>
   <td>Frontend</td>
