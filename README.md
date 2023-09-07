@@ -1,4 +1,4 @@
-👋 Hi my name is Ray De Jesus
+Hi my name is Ray De Jesus
 ====================================================================================================================================
 <table><tr>
   <td><strong>Software Engineer</strong></td>
