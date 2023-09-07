@@ -10,6 +10,8 @@
 </tr></table>
 <!--  -----------------  -->
 
+### Summary
+
 Software Engineer with 6 years professional experience delivering frontend mobile, web and gaming applications. Specialized in optimizing projects for low spec mobile devices. Cross functional communicator who can translate business objectives to technical specs then lead development efforts.
 
 <!-- * 🌍  Based in Tucson | Arizona
