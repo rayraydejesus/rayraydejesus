@@ -27,7 +27,6 @@ Software Engineer with 6 years professional experience delivering frontend mobil
 <!-- MOBILE -->
 <p align="left">
 <a href="https://www.android.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/134473/android.svg" width="36" height="36" alt="Android" /></a><a href="https://www.apple.com/ios/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452233/ios.svg" width="36" height="36" alt="iOS" /></a>
-  
 <!-- UNITY -->
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://cdn.sanity.io/images/fuvbjjlp/production/36cbc8ae92c7711afb9ab1ec9f7174863f4d7c19-22x24.svg" width="36" height="36" alt="Unity" /></a>
 <!--</p>
