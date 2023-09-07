@@ -2,8 +2,8 @@ Hi my name is Ray De Jesus
 ====================================================================================================================================
 <table><tr>
   <td><strong>Software Engineer</strong></td>
-  <td>Games</td>
   <td>Mobile</td>
+  <td>Games</td>
   <td>Web</td>
   <td><a href="https://www.linkedin.com/in/rayraydejesus" target="_blank" rel="noreferrer"><img align= "center" src="https://www.svgrepo.com/show/448234/linkedin.svg" width="34" height="34" /> </a></td>
   <!--<th><a href="https://www.linkedin.com/in/rayraydejesus" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></th></tr>-->
@@ -24,9 +24,14 @@ Software Engineer with 6 years professional experience delivering frontend mobil
 
 ### Skills
 
-<!-- UNITY MOBILE -->
+<!-- MOBILE -->
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://cdn.sanity.io/images/fuvbjjlp/production/36cbc8ae92c7711afb9ab1ec9f7174863f4d7c19-22x24.svg" width="36" height="36" alt="Unity" /></a><a href="https://www.android.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/134473/android.svg" width="36" height="36" alt="Android" /></a><a href="https://www.apple.com/ios/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452233/ios.svg" width="36" height="36" alt="iOS" /></a>
+<a href="https://www.android.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/134473/android.svg" width="36" height="36" alt="Android" /></a><a href="https://www.apple.com/ios/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452233/ios.svg" width="36" height="36" alt="iOS" /></a>
+<!--</p>
+<p align="left">-->
+<!-- UNITY -->
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://cdn.sanity.io/images/fuvbjjlp/production/36cbc8ae92c7711afb9ab1ec9f7174863f4d7c19-22x24.svg" width="36" height="36" alt="Unity" /></a>
 <!--</p>
 <p align="left">-->
 <!-- JS WEB -->
