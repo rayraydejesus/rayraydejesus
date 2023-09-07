@@ -27,7 +27,7 @@ Software Engineer with 6 years professional experience delivering frontend mobil
 <!-- MOBILE -->
 <p align="left">
 <a href="https://www.android.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/134473/android.svg" width="36" height="36" alt="Android" /></a><a href="https://www.apple.com/ios/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452233/ios.svg" width="36" height="36" alt="iOS" /></a>
-<!--</p>
+</p>
 <p align="left">-->
 <!-- UNITY -->
 <p align="left">
